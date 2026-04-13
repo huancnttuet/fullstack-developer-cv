@@ -40,11 +40,11 @@ Làm việc trong nhóm kỹ sư phần mềm để phát triển hệ thống E
 
 Làm việc cùng nhóm kỹ sư phần mềm để phát triển hệ thống e-commerce sử dụng Node.js, AngularJS và Next.js.
 
-- Hỗ trợ phân tích và xử lý sự cố kỹ thuật, thể hiện khả năng giải quyết vấn đề và tính chủ động trong môi trường tốc độ cao.
+- Hỗ trợ phân tích và xử lý sự cố kỹ thuật, giải quyết các vấn đề phát sinh, luôn chủ động trong môi trường tốc độ cao.
 - Triển khai nhiều API microservice bằng Node.js và AWS Lambda.
-- Xây dựng hệ thống logging tập trung (ELK, CloudWatch, S3, Sentry) để thu thập log từ Docker container và tài nguyên AWS.
+- Xây dựng hệ thống logging tập trung (ELK, CloudWatch, S3, Sentry) để thu thập log từ Docker container và AWS.
 - Cải thiện UI/UX cho ứng dụng nội bộ quan trọng, góp phần tăng doanh số và doanh thu sản phẩm.
-- Phối hợp với các nhóm cross-functional trong môi trường Agile để giao tính năng mới và sửa lỗi đúng hạn.
+- Phối hợp với các thành viên khác trong môi trường Agile/Scrum để bàn giao tính năng mới và sửa các lỗi phát sinh đúng hạn.
 
 <br />
 
@@ -55,9 +55,9 @@ Làm việc cùng nhóm kỹ sư phần mềm để phát triển hệ thống e
 
 Làm việc cùng nhóm kỹ sư phần mềm để phát triển hệ thống Ehon book sử dụng Node.js và ReactJS.
 
-- Triển khai RESTful API server cho hệ thống Ehon book.
+- Triển khai hệ thống RESTful API cho dự án Ehon book.
 - Xây dựng và triển khai hạ tầng dịch vụ bằng Docker, Jenkins và nhiều dịch vụ AWS (EC2, ECS, Route 53, S3, CloudFront, RDS, ElastiCache, IAM), tập trung vào high availability, fault tolerance và auto scaling.
-- Triển khai giải pháp Full-Tunnel VPN, yêu cầu tất cả thiết bị nhân viên định tuyến lưu lượng qua cổng trung tâm của công ty kèm DNS filtering và firewall rules (Avira), đảm bảo tuân thủ chính sách bảo mật CNTT.
+- Triển khai giải pháp Full-Tunnel VPN cho nhân viên trong công ty kèm DNS filtering và firewall rules (Avira), đảm bảo tuân thủ các chính sách bảo mật của công ty.
 
 ## &#xe635; Dự án
 
@@ -66,7 +66,7 @@ Làm việc cùng nhóm kỹ sư phần mềm để phát triển hệ thống E
     <a href="https://toeflchallenge.iigvietnam.com">https://toeflchallenge.iigvietnam.com</a>
 </div>
 
-Phát triển nền tảng e-learning TOEFL Challenge Vietnam sử dụng Next.js, Tailwind CSS, shadcn/ui, PostgreSQL, MongoDB, Kafka, .NET và Redis.
+Phát triển nền tảng e-learning TOEFL Challenge Vietnam sử dụng Next.js, Tailwind CSS, shadcn/ui, PostgreSQL, MongoDB, Kafka, .NET, Redis.
 
 - Xây dựng giao diện responsive, tối ưu SEO bằng Next.js, Tailwind CSS và shadcn/ui; tích hợp RESTful API cho các luồng đăng ký, hồ sơ và thi.
 - Phát triển và tối ưu dịch vụ .NET với PostgreSQL và MongoDB; sử dụng Redis cache để cải thiện tốc độ phản hồi và đáp ứng tải đồng thời cao.
@@ -81,8 +81,8 @@ Phát triển nền tảng e-learning TOEFL Challenge Vietnam sử dụng Next.j
 
 Phát triển ứng dụng web với Next.js cho frontend, AngularJS cho trang admin và Node.js cho backend.
 
-- Xây dựng và vận hành các Node.js microservice (bao gồm AWS Lambda) để phục vụ các quy trình sản phẩm, đơn hàng và tích hợp hệ thống.
-- Cải thiện UI/UX và độ responsive trên các luồng người dùng, góp phần tăng mức độ tương tác và tỷ lệ chuyển đổi.
+- Xây dựng và vận hành các Node.js microservice (bao gồm AWS Lambda) để phục vụ các quy trình liên quan tới sản phẩm, đơn hàng và tích hợp hệ thống.
+- Cải thiện UI/UX và tốc độ tải trang trên các thiết bị khác nhau, góp phần tăng mức độ tương tác và khả năng truy cập của người dùng.
 - Thiết lập và vận hành logging tập trung với ELK, CloudWatch, S3 và Sentry để rút ngắn thời gian phát hiện và xử lý sự cố.
 
 <br />
@@ -94,7 +94,7 @@ Phát triển ứng dụng web với Next.js cho frontend, AngularJS cho trang a
 
 Phát triển ứng dụng web với Next.js cho frontend, AngularJS cho trang admin và Node.js cho backend.
 
-- Phát triển và tích hợp backend API cho các tính năng liên quan đến subscription và đơn hàng bằng các Node.js service.
+- Phát triển và tích hợp backend API cho các tính năng liên quan đến subscription, thanh toán, đơn hàng, vận chuyển,...
 - Phối hợp trong nhóm Agile để giao tính năng mới và bản sửa lỗi production đúng tiến độ qua code review và iterative release.
 - Nâng cao observability và độ ổn định khi triển khai bằng cách áp dụng các thực hành monitoring/logging tập trung nhất quán giữa các môi trường.
 
