@@ -23,7 +23,7 @@ Bachelor of Information Technology
     <p>05/2025 - present</p>
 </div>
 
-Collaborated with a team of software engineers to develop an e-learning system using Node.js, Next.js, and .NET.
+Collaborated with a team of software engineers to develop an E-learning system using Node.js, Next.js, and .NET.
 
 - Built highly responsive and SEO-optimized user interfaces using Next.js, seamlessly integrating with RESTful APIs developed in NodeJS and .NET.
 - Optimized database queries and API endpoints, significantly reducing page load times and ensuring smooth video streaming for concurrent users.
