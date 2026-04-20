@@ -7,7 +7,7 @@
 ## &#xe80c; Education
 
 <div alt="entry-title">
-    <h3>University of Engineering and Technology (VNU)</h3> 
+    <h3>University of Engineering and Technology (VNU)</h3>
     <p>09/2017 - 12/2021</p>
 </div>
 
@@ -15,11 +15,12 @@ Bachelor of Information Technology
 
 - **Awards**: 3rd Prize at the National Procon Competition 2019, Phong Vu Scholarship 2018, etc.
 - **GPA**: 3.6
+- **Certificate**: Aptis ESOL B2
 
 ## &#xe618; Work Experience
 
 <div alt="entry-title">
-    <h3>Software Engineer - IIG Vietnam JSC</h3> 
+    <h3>Software Engineer - IIG Vietnam JSC</h3>
     <p>05/2025 - present</p>
 </div>
 
@@ -34,7 +35,7 @@ Collaborated with a team of software engineers to develop an E-learning system u
 <br />
 
 <div alt="entry-title">
-    <h3>Software Engineer - Vietnam Multimedia Services JSC</h3> 
+    <h3>Software Engineer - Vietnam Multimedia Services JSC</h3>
     <p>04/2022 - 05/2025</p>
 </div>
 
@@ -49,7 +50,7 @@ Collaborated with a team of software engineers to develop an e-commerce system u
 <br />
 
 <div alt="entry-title">
-    <h3>Software Engineer - Punch Entertainment Vietnam Co., Ltd</h3> 
+    <h3>Software Engineer - Punch Entertainment Vietnam Co., Ltd</h3>
     <p>08/2021 - 10/2022</p>
 </div>
 
@@ -69,41 +70,44 @@ Collaborated with a team of software engineers to develop an Ehon book system us
 
 Developed an e-learning platform for TOEFL Challenge Vietnam using Next.js, Tailwind CSS, shadcn/ui, PostgreSQL, MongoDB, Kafka, .NET, and Redis.
 
-- Built responsive and SEO-optimized user interfaces with Next.js, Tailwind CSS, and shadcn/ui, integrated with RESTful APIs for registration, profile, and exam workflows.
-- Developed and optimized .NET services with PostgreSQL and MongoDB, and used Redis caching to improve response time and support high concurrent access.
-- Implemented Kafka consumers for email and SMS notifications and exam registration events, with retry, DLQ, and routing handling.
+- Built responsive and SEO-optimized interfaces with Next.js, Tailwind CSS, and shadcn/ui.
+- Integrated RESTful APIs for registration, online learning, and exam workflows.
+- Developed and optimized .NET backend services with PostgreSQL and MongoDB; used Redis caching to improve response time and support high concurrent traffic.
+- Implemented Kafka consumers for email/SMS and exam registration events, including retry, DLQ, and routing.
+- Built and integrated automated CI/CD pipelines for testing, build, and deployment across environments.
 
 <br />
 
 <div alt="entry-title">
-    <h3>Reflaunt Resell Service</h3> 
+    <h3>Vitable</h3>
+    <a href="https://vitable.com.au">https://vitable.com.au</a>
+</div>
+
+Developed web applications using Node.js, Next.js, and AngularJS.
+
+- Developed and optimized RESTful APIs using Node.js, PostgreSQL, and MongoDB.
+- Developed and integrated with third-party APIs for subscription, payment, order, and shipping workflows.
+- Built high-performance Node.js workers to process complex Kafka-based logic, reducing API query latency and improving peak-time user experience.
+- Collaborated in an Agile team to deliver new features and production fixes on schedule through code reviews and daily meetings.
+
+<br />
+
+<div alt="entry-title">
+    <h3>Reflaunt Resell Service</h3>
     <a href="https://www.reflaunt.com">https://www.reflaunt.com</a>
 </div>
 
-Developed a web application using Next.js for the frontend, AngularJS for admin, and Node.js for the backend.
+Developed web applications using Node.js, Next.js, and AngularJS.
 
 - Built and maintained Node.js microservices (including AWS Lambda functions) to support product, order, and integration workflows.
 - Improved UI/UX and page responsiveness on customer-facing flows, contributing to better engagement and conversion.
 - Set up and operated centralized logging with ELK, CloudWatch, S3, and Sentry to speed up incident detection and troubleshooting.
 
-<br />
-
-<div alt="entry-title">
-    <h3>Vitable</h3> 
-    <a href="https://vitable.com.au/">https://vitable.com.au/</a>
-</div>
-
-Developed a web application using Next.js for the frontend, AngularJS for admin, and Node.js for the backend.
-
-- Developed and integrated backend APIs for subscription and order-related features using Node.js services.
-- Collaborated in an Agile team to deliver new features and production fixes on schedule through peer reviews and iterative releases.
-- Enhanced observability and deployment reliability by applying the same centralized monitoring and logging practices across environments.
-
 ## &#xecfa; Skills
 
-- Proficient in multiple programming languages, including JavaScript, Python, and C#, with a strong grasp of object-oriented and functional programming paradigms.
+- Proficient in multiple programming languages, including JavaScript, TypeScript, Python, and C#, with a strong foundation in object-oriented programming.
 - Experienced with frameworks and platforms: Node.js, NestJS, .NET, Flask, Next.js, ReactJS, AngularJS, Tailwind CSS.
-- Knowledgeable about databases: MySQL, PostgreSQL, MongoDB, DynamoDB, Redis.
+- Knowledgeable about databases: MySQL, PostgreSQL, MongoDB, Redis.
 - Experienced with message queue systems: Kafka, RabbitMQ.
 - Solid understanding of software development principles, data structures, and algorithms, with a focus on writing clean, efficient, and maintainable code.
-- Extensive experience with Git version control, including platforms such as Bitbucket and GitLab.
+- Experienced with Git version control and source code management platforms such as Bitbucket and GitLab.
