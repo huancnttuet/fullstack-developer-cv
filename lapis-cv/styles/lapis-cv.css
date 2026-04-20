@@ -16,7 +16,7 @@
     --h3-size: 10.5pt;
     --blockquote-size: 9.5pt;
 
-    --text-font: 'SourceHanSansCN';
+    --text-font: 'Arial';
     --title-font: 'SourceHanSansCN';
     --link-font: 'JetBrainsMono';
     --code-font: 'JetBrainsMono';
@@ -36,6 +36,11 @@
 @font-face {
     font-family: "SourceHanSansCN";
     src: url('../fonts/SourceHanSansCN-Regular.ttf');
+}
+
+@font-face {
+    font-family: "Arial";
+    src: url('../fonts/SVN-Arial Regular.ttf');
 }
 
 @font-face {
